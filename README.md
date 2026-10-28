@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jan 👋
 
-<!--
-**PUSCHi1337/PUSCHi1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Home Assistant and KNX enthusiast, focused on reliable,
+local-first smart homes.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 Practical home automation with Home Assistant and KNX
+- 🔧 Troubleshooting and improving integrations
+- 💡 Making everyday smart-home features more useful
+
+## AI-assisted development
+
+I use AI tools to help me understand, write and debug code.
+My work here focuses on practical improvements for my own setup.
+
+Clear documentation, testing and sharing what I learn are
+important to me.
